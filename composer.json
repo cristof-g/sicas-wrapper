@@ -1,0 +1,21 @@
+{
+    "name": "cristof-g/sicas-wrapper",
+    "description": "Library for connect to SICAS Web Services",
+    "authors": [{
+        "name": "Cristofer Gomez",
+        "email": "crissvilla1991@gmail.com"
+    }],
+    "autoload": {
+        "psr-4" : {
+            "Sicas\\" : "src/",
+            "Sicas\\Tests\\" : "tests/"
+        }
+    },
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9"
+    }
+    
+}
