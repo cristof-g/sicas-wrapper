@@ -1,6 +1,7 @@
 {
     "name": "cristof-g/sicas-wrapper",
     "description": "Library for connect to SICAS Web Services",
+    "license": "MIT",
     "authors": [{
         "name": "Cristofer Gomez",
         "email": "crissvilla1991@gmail.com"
